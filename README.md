@@ -1,4 +1,5 @@
 # fist-git-repo
 This is my first Git Repository. 
 <br>
-Author-Anjum khan
+Author-Anjum khan (from loti)
+
